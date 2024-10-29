@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> RevoU Day2 </title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td><input type="text" name="display"></td>
+            </tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+        </table>
+    </body>
+</html> 
